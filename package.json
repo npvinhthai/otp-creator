@@ -1,0 +1,32 @@
+{
+  "name": "otp-creator",
+  "version": "0.1.0",
+  "description": "A small utility method for creating and verifying one time password",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R list"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/npvinhthai/otp-creator.git"
+  },
+  "keywords": [
+    "otp",
+    "otp",
+    "generator",
+    "otp",
+    "creator",
+    "otp",
+    "verify"
+  ],
+  "author": "Andrew Nguyen <npvinhthai@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/npvinhthai/otp-creator/issues"
+  },
+  "homepage": "https://github.com/npvinhthai/otp-creator#readme",
+  "devDependencies": {
+    "mocha": "^3.2.0",
+    "speakeasy": "^2.0.0"
+  }
+}
